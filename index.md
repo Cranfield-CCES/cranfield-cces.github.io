@@ -2,6 +2,11 @@
 Welcome to the PhD program!
 Here are a few resources that you will hopefully find useful.
 
+
+## TODO
+ * Add file structures.
+ * Tutorial for git, bash, ssh, wget
+
 ## Computational Resources
 ### High Performance Computing
 Cranfield's supercomputer for researchers is Delta.
