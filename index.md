@@ -70,4 +70,4 @@ Luckily Linux has been integrated into Windows, there is no more need to dual bo
  ```
  /mnt/c/Users/BillMurray/Downloads/
  ```
- * [An In-depth tutorial on Linux development on Windows with WSL and VS Code](https://devblogs.microsoft.com/commandline/an-in-depth-tutorial-on-linux-development-on-windows-with-wsl-and-visual-studio-code/)
+ * [An In-depth tutorial about Linux development on Windows with WSL and VS Code](https://devblogs.microsoft.com/commandline/an-in-depth-tutorial-on-linux-development-on-windows-with-wsl-and-visual-studio-code/)
