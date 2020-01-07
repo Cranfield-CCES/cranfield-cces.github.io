@@ -12,7 +12,7 @@ The official documentation can be found
   [here](https://intranet.cranfield.ac.uk/it/Documents3/Getting%20Started%20With%20HPC.pdf).
 
 Hint: stick this command, where s000000 is your student number, in a
-  [bash script](https://raw.githubusercontent.com/Cranfield-CCES/cranfield-cces.github.io/master/delta.sh)
+  [bash script](https://github.com/Cranfield-CCES/cranfield-cces.github.io/blob/master/delta.sh)
   to make accessing the system easier.
 ``` bash
 ssh -t s000000@hpcgate.cranfield.ac.uk ssh s000000@delta.central.cranfield.ac.uk
