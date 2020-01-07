@@ -48,8 +48,8 @@ Luckily Linux has been integrated into Windows, there is no more need to dual bo
 # Links for Learning
 ## Linux Basics
  * [A Quick Guide to Get Started with the Linux Command Line](https://www.makeuseof.com/tag/using-linux-with-wayland/)
- ** Make sure you understand `mv`, `cp`, `cd`, `mkdir`, and `wget`.
- ** Note: `cd -` takes you to previous directory
+     * Make sure you understand `mv`, `cp`, `cd`, `mkdir`, and `wget`.
+     * Note: `cd -` takes you to previous directory
  * [Compiling and Running a Program](compile.md)
  * Install packages using [sudo apt](https://codeburst.io/a-beginners-guide-to-using-apt-get-commands-in-linux-ubuntu-d5f102a56fc4)
    or a [tarball](https://linuxize.com/post/how-to-extract-unzip-tar-gz-file/).
