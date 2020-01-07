@@ -66,5 +66,8 @@ Luckily Linux has been integrated into Windows, there is no more need to dual bo
 ## Git Repository
  * Understand how to use Git with this [Hello World](https://guides.github.com/activities/hello-world/)
 ## Miscellaneous
- * Access to C drive from WSL, in this case user Bill Murray is accessing his Download directory: /mnt/c/Users/BillMurray/Downloads/
+ * Access to C drive from WSL, in this case user Bill Murray is accessing his Download directory:
+ ```
+ /mnt/c/Users/BillMurray/Downloads/
+ ```
  * [An In-depth tutorial on Linux development on Windows with WSL and VS Code](https://devblogs.microsoft.com/commandline/an-in-depth-tutorial-on-linux-development-on-windows-with-wsl-and-visual-studio-code/)
