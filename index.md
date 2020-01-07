@@ -2,11 +2,6 @@
 Welcome to the PhD program!
 Here are a few resources that you will hopefully find useful.
 
-
-## TODO
- * Add file structures.
- * Tutorial for git, bash, ssh, wget
-
 ## Computational Resources
 ### High Performance Computing
 Cranfield's supercomputer for researchers is Delta.
@@ -49,8 +44,26 @@ Luckily Linux has been integrated into Windows, there is no more need to dual bo
 
 
 
-
-Helpful Links
+# Links for Learning
+## Linux Basics
  * [A Quick Guide to Get Started with the Linux Command Line](https://www.makeuseof.com/tag/using-linux-with-wayland/)
+ ** Make sure you understand `mv`, `cp`, `cd`, `mkdir`, and `wget`.
+ ** Note: `cd -` takes you to previous directory
+ * [Compiling and Running a Program](compile.md)
+ * Install packages using [sudo apt](https://codeburst.io/a-beginners-guide-to-using-apt-get-commands-in-linux-ubuntu-d5f102a56fc4)
+   or a [tarball](https://linuxize.com/post/how-to-extract-unzip-tar-gz-file/).
+   The tarballs will probably use [cmake](https://preshing.com/20170511/how-to-build-a-cmake-based-project/#running-cmake-from-the-command-line)
+   or [configure, make, make install](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install).
+ * [Environment Modules](http://www.admin-magazine.com/HPC/Articles/Environment-Modules): these are used on Delta.
+   Note that instead of typing `module load` you can just use `ml`.
+ * [Makefiles](https://makefiletutorial.com/)
+ * [Running Bash Scripts asExecutables](https://www.cyberciti.biz/faq/run-execute-sh-shell-script/)
+ * Tab Complition: Note, when typing in the command line, if you hit `tab` it will try to auto-complete.
+   If there are multiple items it can complete to, hitting `tab` twice will list all of them.
+
+
+## Git Repository
  * Understand how to use Git with this [Hello World](https://guides.github.com/activities/hello-world/)
+## Miscellaneous
+ * Access to C drive from WSL, in this case user Bill Murray is accessing his Download directory: /mnt/c/Users/BillMurray/Downloads/
  * [An In-depth tutorial on Linux development on Windows with WSL and VS Code](https://devblogs.microsoft.com/commandline/an-in-depth-tutorial-on-linux-development-on-windows-with-wsl-and-visual-studio-code/)
