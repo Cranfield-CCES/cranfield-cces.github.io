@@ -2,6 +2,11 @@
 Welcome to the PhD program!
 Here are a few resources that you will hopefully find useful.
 
+# Resources
+Cranfield:
+  * [PowerPoint Templates](https://intranet.cranfield.ac.uk/CranfieldBrand/Pages/PowerPoint-templates.aspx)
+  * TODO: add links to learning modules, latex resources
+
 ## Computational Resources
 ### High Performance Computing
 Cranfield's supercomputer for researchers is Delta.
