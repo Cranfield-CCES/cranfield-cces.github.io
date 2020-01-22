@@ -18,9 +18,9 @@ The official documentation can be found
 
 
 You can access the filesystem by using a GUI with
-[WinSCP](https://intranet.cranfield.ac.uk/it/Documents3/WindowsHPCSCP.pdf)
-, [mobaXterm](https://intranet.cranfield.ac.uk/it/Documents3/WindowsMobaXterm.pdf)
-, or from the command line using `ssh`.
+[WinSCP](https://intranet.cranfield.ac.uk/it/Documents3/WindowsHPCSCP.pdf),
+ [mobaXterm](https://intranet.cranfield.ac.uk/it/Documents3/WindowsMobaXterm.pdf),
+ or from the command line using `ssh`.
 
 
 Hint: stick this command, where s000000 is your student number, in a
