@@ -59,7 +59,7 @@ Luckily Linux has been integrated into Windows, there is no more need to dual bo
 
 # Links for Learning
 ## Linux Basics
- * [A Quick Guide to Get Started with the Linux Command Line](https://www.makeuseof.com/tag/using-linux-with-wayland/)
+ * [A Quick Guide to Get Started with the Linux Command Line](https://www.makeuseof.com/tag/using-linux-with-wayland/) or [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
      * Make sure you understand `mv`, `cp`, `cd`, `mkdir`, and `wget`.
      * Note: `cd -` takes you to previous directory
  * [Compiling and Running a Program](compile.md)
