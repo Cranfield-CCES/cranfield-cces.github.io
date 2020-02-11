@@ -11,7 +11,7 @@ Cranfield:
 ## General Info
  * Cranfield's interal website with general information is
    [intranet.cranfield.ac.uk](intranet.cranfield.ac.uk)
- * [Printing](https://github.com/Cranfield-CCES/cranfield-cces.github.io/blob/master/printing.md)
+ * [Printing](https://cranfield-cces.github.io/printing)
 <!---  * add link to comp hardware -->
 
 
@@ -70,7 +70,7 @@ Luckily Linux has been integrated into Windows, there is no more need to dual bo
  * [A Quick Guide to Get Started with the Linux Command Line](https://www.makeuseof.com/tag/using-linux-with-wayland/) or [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
      * Make sure you understand `mv`, `cp`, `cd`, `mkdir`, and `wget`.
      * Note: `cd -` takes you to previous directory
- * [Compiling and Running a Program](compile.md)
+ * [Compiling and Running a Program](https://cranfield-cces.github.io/compile)
  * Install packages using [sudo apt](https://codeburst.io/a-beginners-guide-to-using-apt-get-commands-in-linux-ubuntu-d5f102a56fc4)
    or a [tarball](https://linuxize.com/post/how-to-extract-unzip-tar-gz-file/).
    The tarballs will probably use [cmake](https://preshing.com/20170511/how-to-build-a-cmake-based-project/#running-cmake-from-the-command-line)
