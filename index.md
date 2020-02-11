@@ -2,10 +2,18 @@
 Welcome to the PhD program!
 Here are a few resources that you will hopefully find useful.
 
+
 # Resources
 Cranfield:
   * [PowerPoint Templates](https://intranet.cranfield.ac.uk/CranfieldBrand/Pages/PowerPoint-templates.aspx)
   * TODO: add links to learning modules, latex resources
+
+## General Info
+ * Cranfield's interal website with general information is
+   [intranet.cranfield.ac.uk](intranet.cranfield.ac.uk)
+ * [Printing](https://github.com/Cranfield-CCES/cranfield-cces.github.io/blob/master/printing.md)
+<!---  * add link to comp hardware -->
+
 
 ## Computational Resources
 ### High Performance Computing
@@ -77,6 +85,8 @@ Luckily Linux has been integrated into Windows, there is no more need to dual bo
 
 ## Git Repository
  * Understand how to use Git with this [Hello World](https://guides.github.com/activities/hello-world/)
+
+
 ## Miscellaneous
  * Access to C drive from WSL, in this case user Bill Murray is accessing his Download directory:
  ```
