@@ -2,6 +2,7 @@
 
 The site describing the printing process and the guides for setting up your
 printer can be found [here](https://intranet.cranfield.ac.uk/it/Pages/Printing.aspx).
+Follow the instruction from the "Printing from non-University devices" guide.
 As a research student the printing service is free to use.
 
 
