@@ -1,4 +1,4 @@
-![welcome](https://cdn.pixabay.com/photo/2018/09/27/09/21/web-3706561_1280.jpg)
+![welcome](https://cdn.pixabay.com/photo/2020/01/02/17/19/artificial-intelligence-4736369_1280.jpg)
 # Onboarding
 Welcome to the PhD program!
 Here are a few resources that you will hopefully find useful.
