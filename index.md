@@ -13,14 +13,14 @@ Note, most of the help guides are geared towards Linux.
    2. [Git Repository](git-repo)
    3. [Installing Linux on Windows (WSL)](wsl)
 
-# General Info<a name="general-info" />
+# General Info<a name="general-info"></a>
  * Cranfield's interal website with general information is
    [intranet.cranfield.ac.uk](intranet.cranfield.ac.uk)
  * [Printing](https://cranfield-cces.github.io/printing)
 <!---  * add link to comp hardware -->
   * [PowerPoint Templates](https://intranet.cranfield.ac.uk/CranfieldBrand/Pages/PowerPoint-templates.aspx)
 
-# High Performance Computing<a name"hpc" />
+# High Performance Computing<a name"hpc"></a>
 Cranfield's supercomputer for researchers is Delta.
 Before accessing it you will need to fill and submit this
   [form](https://intranet.cranfield.ac.uk/it/Documents3/DeltaApplication.pdf)
@@ -52,7 +52,7 @@ The module system is nice because it allows you to easily load and manage the so
 Linux is used on HPC systems and by many scientists, it is very useful to get comfortable with it.
 Luckily Linux has been integrated into Windows, there is no more need to dual boot.
 
-## Linux Basics<a name="linux-basics" />
+## Linux Basics<a name="linux-basics"></a>
  * [A Quick Guide to Get Started with the Linux Command Line](https://www.makeuseof.com/tag/using-linux-with-wayland/) or [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
      * Make sure you understand `mv`, `cp`, `cd`, `mkdir`, and `wget`.
      * Note: `cd -` takes you to previous directory
@@ -71,10 +71,10 @@ Luckily Linux has been integrated into Windows, there is no more need to dual bo
  * [Turn off beeping](https://www.tldp.org/HOWTO/Visual-Bell-8.html) in Linux
 
 
-## Git Repository<a name="git-repo" />
+## Git Repository<a name="git-repo"></a>
  * Understand how to use Git with this [Hello World](https://guides.github.com/activities/hello-world/)
 
-## Accessing Linux from Windows<a name="wsl" />
+## Accessing Linux from Windows<a name="wsl"></a>
  1. [Install](https://docs.microsoft.com/en-us/windows/wsl/install-win10) Windows Subsystem Linux (WSL).
     This will give you access to the Command Line Interface (CLI) of a Linux Distro.
     Ubuntu is the most used and probably the best tested, it's the one I would recommend.
