@@ -9,9 +9,9 @@ Note, most of the help guides are geared towards Linux.
 1. [General Info](#general-info)
 2. [High Performance Computing](#hpc)
 3. [Linux](#linux)
-   1. [Linux Basics](linux-basics)
-   2. [Git Repository](git-repo)
-   3. [Installing Linux on Windows (WSL)](wsl)
+   1. [Linux Basics](#linux-basics)
+   2. [Git Repository](#git-repo)
+   3. [Installing Linux on Windows (WSL)](#wsl)
 
 # General Info<a name="general-info"></a>
  * Cranfield's interal website with general information is
