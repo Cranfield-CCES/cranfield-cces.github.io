@@ -1,22 +1,26 @@
 # Onboarding
 Welcome to the PhD program!
 Here are a few resources that you will hopefully find useful.
+Note, most of the help guides are geared towards Linux.
 
+* TODO: add links to learning modules
 
-# Resources
-Cranfield:
-  * [PowerPoint Templates](https://intranet.cranfield.ac.uk/CranfieldBrand/Pages/PowerPoint-templates.aspx)
-  * TODO: add links to learning modules, latex resources
+# Table of Contents
+1. [General Info](#general-info)
+2. [High Performance Computing](#hpc)
+3. [Linux](#linux)
+   1. [Linux Basics](linux-basics)
+   2. [Git Repository](git-repo)
+   3. [Installing Linux on Windows (WSL)](wsl)
 
-## General Info
+# General Info<a name="general-info" />
  * Cranfield's interal website with general information is
    [intranet.cranfield.ac.uk](intranet.cranfield.ac.uk)
  * [Printing](https://cranfield-cces.github.io/printing)
 <!---  * add link to comp hardware -->
+  * [PowerPoint Templates](https://intranet.cranfield.ac.uk/CranfieldBrand/Pages/PowerPoint-templates.aspx)
 
-
-## Computational Resources
-### High Performance Computing
+# High Performance Computing<a name"hpc" />
 Cranfield's supercomputer for researchers is Delta.
 Before accessing it you will need to fill and submit this
   [form](https://intranet.cranfield.ac.uk/it/Documents3/DeltaApplication.pdf)
@@ -43,11 +47,34 @@ Type `ml` to list the loaded packages.
 The module system is nice because it allows you to easily load and manage the software you want to use.
 
 
-### Personal Computer
+
+# Linux
 Linux is used on HPC systems and by many scientists, it is very useful to get comfortable with it.
 Luckily Linux has been integrated into Windows, there is no more need to dual boot.
 
-#### Accessing Linux from Windows
+## Linux Basics<a name="linux-basics" />
+ * [A Quick Guide to Get Started with the Linux Command Line](https://www.makeuseof.com/tag/using-linux-with-wayland/) or [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+     * Make sure you understand `mv`, `cp`, `cd`, `mkdir`, and `wget`.
+     * Note: `cd -` takes you to previous directory
+ * [Compiling and Running a Program](https://cranfield-cces.github.io/compile)
+ * Install packages using [sudo apt](https://codeburst.io/a-beginners-guide-to-using-apt-get-commands-in-linux-ubuntu-d5f102a56fc4)
+   or a [tarball](https://linuxize.com/post/how-to-extract-unzip-tar-gz-file/).
+   The tarballs will probably use [cmake](https://preshing.com/20170511/how-to-build-a-cmake-based-project/#running-cmake-from-the-command-line)
+   or [configure, make, make install](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install).
+ * [Environment Modules](http://www.admin-magazine.com/HPC/Articles/Environment-Modules): these are used on Delta.
+   Note that instead of typing `module load` you can just use `ml`.
+ * [Makefiles](https://makefiletutorial.com/)
+ * [Installing Latex](https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux)
+ * [Running Bash Scripts as Executables](https://www.cyberciti.biz/faq/run-execute-sh-shell-script/)
+ * Tab Complition: Note, when typing in the command line, if you hit `tab` it will try to auto-complete.
+   If there are multiple items it can complete to, hitting `tab` twice will list all of them.
+ * [Turn off beeping](https://www.tldp.org/HOWTO/Visual-Bell-8.html) in Linux
+
+
+## Git Repository<a name="git-repo" />
+ * Understand how to use Git with this [Hello World](https://guides.github.com/activities/hello-world/)
+
+## Accessing Linux from Windows<a name="wsl" />
  1. [Install](https://docs.microsoft.com/en-us/windows/wsl/install-win10) Windows Subsystem Linux (WSL).
     This will give you access to the Command Line Interface (CLI) of a Linux Distro.
     Ubuntu is the most used and probably the best tested, it's the one I would recommend.
@@ -63,34 +90,9 @@ Luckily Linux has been integrated into Windows, there is no more need to dual bo
     I prefer Emacs, it is crazy powerful, but just an fyi there is a never ending battle between Emacs people and Vim people.
     You should learn a bit of both since each ones key binding show-up all over the place.
 
-
-
-# Links for Learning
-## Linux Basics
- * [A Quick Guide to Get Started with the Linux Command Line](https://www.makeuseof.com/tag/using-linux-with-wayland/) or [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
-     * Make sure you understand `mv`, `cp`, `cd`, `mkdir`, and `wget`.
-     * Note: `cd -` takes you to previous directory
- * [Compiling and Running a Program](https://cranfield-cces.github.io/compile)
- * Install packages using [sudo apt](https://codeburst.io/a-beginners-guide-to-using-apt-get-commands-in-linux-ubuntu-d5f102a56fc4)
-   or a [tarball](https://linuxize.com/post/how-to-extract-unzip-tar-gz-file/).
-   The tarballs will probably use [cmake](https://preshing.com/20170511/how-to-build-a-cmake-based-project/#running-cmake-from-the-command-line)
-   or [configure, make, make install](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install).
- * [Environment Modules](http://www.admin-magazine.com/HPC/Articles/Environment-Modules): these are used on Delta.
-   Note that instead of typing `module load` you can just use `ml`.
- * [Makefiles](https://makefiletutorial.com/)
- * [Running Bash Scripts asExecutables](https://www.cyberciti.biz/faq/run-execute-sh-shell-script/)
- * Tab Complition: Note, when typing in the command line, if you hit `tab` it will try to auto-complete.
-   If there are multiple items it can complete to, hitting `tab` twice will list all of them.
-
-
-## Git Repository
- * Understand how to use Git with this [Hello World](https://guides.github.com/activities/hello-world/)
-
-
-## Miscellaneous
+### WSL Miscellaneous
  * Access to C drive from WSL, in this case user Bill Murray is accessing his Download directory:
  ```
  /mnt/c/Users/BillMurray/Downloads/
  ```
- * [Turn off beeping](https://www.tldp.org/HOWTO/Visual-Bell-8.html) in Linux
  * [An In-depth tutorial about Linux development on Windows with WSL and VS Code](https://devblogs.microsoft.com/commandline/an-in-depth-tutorial-on-linux-development-on-windows-with-wsl-and-visual-studio-code/)
