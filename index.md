@@ -20,7 +20,7 @@ Note, most of the help guides are geared towards Linux.
 <!---  * add link to comp hardware -->
   * [PowerPoint Templates](https://intranet.cranfield.ac.uk/CranfieldBrand/Pages/PowerPoint-templates.aspx)
 
-# High Performance Computing<a name"hpc"></a>
+# High Performance Computing<a name="hpc"></a>
 Cranfield's supercomputer for researchers is Delta.
 Before accessing it you will need to fill and submit this
   [form](https://intranet.cranfield.ac.uk/it/Documents3/DeltaApplication.pdf)
