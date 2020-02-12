@@ -58,6 +58,7 @@ Luckily Linux has been integrated into Windows, there is no more need to dual bo
      * Note: `cd -` takes you to previous directory
  * [Compiling and Running a Program](https://cranfield-cces.github.io/compile)
  * Install packages using [sudo apt](https://codeburst.io/a-beginners-guide-to-using-apt-get-commands-in-linux-ubuntu-d5f102a56fc4)
+   (not that this will not work on Delta, only systems you have `sudo` privileges)
    or a [tarball](https://linuxize.com/post/how-to-extract-unzip-tar-gz-file/).
    The tarballs will probably use [cmake](https://preshing.com/20170511/how-to-build-a-cmake-based-project/#running-cmake-from-the-command-line)
    or [configure, make, make install](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install).
