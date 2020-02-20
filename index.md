@@ -1,10 +1,9 @@
-![welcome](https://cdn.pixabay.com/photo/2020/01/02/17/19/artificial-intelligence-4736369_1280.jpg)
 # Onboarding
 Welcome to the PhD program!
 Here are a few resources that you will hopefully find useful.
 Note, most of the help guides are geared towards Linux.
 
-* TODO: add links to learning modules
+![welcome](https://cdn.pixabay.com/photo/2020/01/02/17/19/artificial-intelligence-4736369_1280.jpg)
 
 # Table of Contents
 1. [General Info](#general-info)
@@ -98,3 +97,7 @@ Luckily Linux has been integrated into Windows, there is no more need to dual bo
  /mnt/c/Users/BillMurray/Downloads/
  ```
  * [An In-depth tutorial about Linux development on Windows with WSL and VS Code](https://devblogs.microsoft.com/commandline/an-in-depth-tutorial-on-linux-development-on-windows-with-wsl-and-visual-studio-code/)
+
+# TODO
+ * add links to learning modules
+ * add link to computer hardware
