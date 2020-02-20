@@ -70,6 +70,10 @@ Luckily Linux has been integrated into Windows, there is no more need to dual bo
  * Tab Complition: Note, when typing in the command line, if you hit `tab` it will try to auto-complete.
    If there are multiple items it can complete to, hitting `tab` twice will list all of them.
  * [Turn off beeping](https://www.tldp.org/HOWTO/Visual-Bell-8.html) in Linux
+ * [Tmux](https://danielmiessler.com/study/tmux/): if you use the command line a
+   lot this is one of the best ways to handle multiple windows/tabs. And
+   [tmux-yank](https://github.com/tmux-plugins/tmux-yank) allows you to copy
+   text from your terminal without touching your mouse!
 
 
 ## Git Repository<a name="git-repo"></a>
